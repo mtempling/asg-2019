@@ -1,5 +1,5 @@
 # asg-2019
-This is a [OVE](https://github.com/Ericsson/ove) workspace for [All Systems Go 2019](https://cfp.all-systems-go.io).
+This is an [OWEL](https://github.com/Ericsson/ove) for [All Systems Go 2019](https://cfp.all-systems-go.io).
 
 # The oneliner
 
