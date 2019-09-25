@@ -1,5 +1,5 @@
 # asg-2019
-This is a OVE workspace for [All Systems Go 2019] (https://cfp.all-systems-go.io).
+This is a OVE workspace for [All Systems Go 2019](https://cfp.all-systems-go.io).
 
 # The oneliner
 
@@ -33,7 +33,7 @@ Here we will issue ~45 git clones (~3GB of disk space) in parallel. You have bee
     ove fetch
 
 # Build
-Build some Rust programs that was mentioned in the [Alternatives to standard utilities] (https://cfp.all-systems-go.io/ASG2019/talk/JFC7VC/) lightning talk.
+Build some Rust programs that was mentioned in the [Alternatives to standard utilities](https://cfp.all-systems-go.io/ASG2019/talk/JFC7VC/) lightning talk.
 
     ove buildme [<tab><tab>]
     # wait
@@ -52,4 +52,4 @@ The 'schedule' file was fetched (2019-09-23) using:
 
     curl https://cfp.all-systems-go.io/ASG2019/schedule/export/schedule.json | jq -r .schedule.conference | ...
 
-[OVE] (https://github.com/Ericsson/ove)
+[OVE](https://github.com/Ericsson/ove)
