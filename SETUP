@@ -1,0 +1,1 @@
+curl -sSL https://raw.githubusercontent.com/Ericsson/ove/master/setup | bash -s asg https://github.com/mtempling/asg-2019

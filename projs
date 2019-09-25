@@ -1,0 +1,34 @@
+---
+bat:
+  deps:
+    prerequisites
+  path:
+    bat
+
+diskus:
+  deps:
+    prerequisites
+  path:
+    diskus
+
+hexyl:
+  deps:
+    prerequisites
+  path:
+    hexyl
+
+prerequisites:
+  path:
+    .
+
+rg:
+  deps:
+    prerequisites
+  path:
+    ripgrep
+
+tokei:
+  deps:
+    prerequisites
+  path:
+    tokei

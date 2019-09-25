@@ -1,0 +1,150 @@
+# OVE gathers git repositories and the knowledge how to build and test them
+.ove                    https://github.com/ericsson/ove                    https://github.com/ericsson/ove                    master
+
+#############
+# friday/loft
+#############
+
+# Effective infrastructure monitoring with Grafana (David Kaltschmidt)
+grafana                 https://github.com/grafana/grafana                 https://github.com/grafana/grafana                 master
+
+# Traceloop for systemd and Kubernetes + Inspektor Gadget (Alban Crequy)
+gobpf                   https://github.com/iovisor/gobpf                   https://github.com/iovisor/gobpf                   master
+inspector-gadget        https://github.com/kinvolk/inspektor-gadget        https://github.com/kinvolk/inspektor-gadget        master
+traceloop               https://github.com/kinvolk/traceloop               https://github.com/kinvolk/traceloop               master
+
+# Rootless, Reproducible & Hermetic: Secure Container Build Showdown (Andrew Martin)
+bazel                   https://github.com/bazelbuild/bazel                https://github.com/bazelbuild/bazel                master
+buildah                 https://github.com/containers/buildah              https://github.com/containers/buildah              master
+buildkit                https://github.com/moby/buildkit                   https://github.com/moby/buildkit                   master
+in-toto                 https://github.com/in-toto/in-toto                 https://github.com/in-toto/in-toto                 master
+jib                     https://github.com/GoogleContainerTools/jib        https://github.com/GoogleContainerTools/jib        master
+lxc                     https://github.com/lxc/lxc                         https://github.com/lxc/lxc                         master
+lxd                     https://github.com/lxc/lxd                         https://github.com/lxc/lxd                         master
+kaniko                  https://github.com/GoogleContainerTools/kaniko     https://github.com/GoogleContainerTools/kaniko     master
+kubesec.io              https://github.com/controlplaneio/kubesec          https://github.com/controlplaneio/kubesec          master
+nixery                  https://github.com/google/nixery                   https://github.com/google/nixery                   master
+umoci                   https://github.com/openSUSE/umoci                  https://github.com/openSUSE/umoci                  master
+makisu                  https://github.com/uber/makisu                     https://github.com/uber/makisu                     master
+rootlesskit             https://github.com/rootless-containers/rootlesskit https://github.com/rootless-containers/rootlesskit master
+
+# Reinventing Home Directories (Lennart Poettering)
+homed                   https://github.com/poettering/systemd              https://github.com/poettering/systemd              homed
+
+# How Microsoft SQL Server Went Multi-Platform: SQLPAL (Argenis Fernandez, Brian Gianforcaro, Eugene Birukov)
+
+# Resource control @ Facebook - 2019 (Tejun Heo, Dan Schatzberg)
+
+# Container Live Migration (Adrian Reber)
+criu                    https://github.com/checkpoint-restore/criu.git     https://github.com/checkpoint-restore/criu.git     master
+
+# Revamping libcontainer's systemd driver (Filipe Brandenburger)
+runc-libcontainer       https://github.com/opencontainers/runc.git         https://github.com/opencontainers/runc.git         master
+
+# Custom cgroup-bpf programs in systemd (Julia Kartseva)
+libbpf                  https://github.com/libbpf/libbpf                   https://github.com/libbpf/libbpf                   master
+
+# Time-limited login sessions (Philip Withnall)
+
+# Impact of zstd (Oskari Saarenmaa, Ville Tainio)
+zstd                    https://github.com/facebook/zstd.git               https://github.com/facebook/zstd.git               master
+
+# Alternatives to standard utilities (Paul Menzel)
+bat                     https://github.com/sharkdp/bat                     https://github.com/sharkdp/bat                     master
+diskus                  https://github.com/sharkdp/diskus                  https://github.com/sharkdp/diskus                  master
+fd                      https://github.com/sharkdp/fd                      https://github.com/sharkdp/fd                      master
+hexyl                   https://github.com/sharkdp/hexyl                   https://github.com/sharkdp/hexyl                   master
+pdfpc                   https://github.com/pdfpc/pdfpc                     https://github.com/pdfpc/pdfpc                     master
+ripgrep                 https://github.com/BurntSushi/ripgrep              https://github.com/BurntSushi/ripgrep              master
+tokei                   https://github.com/XAMPPRocky/tokei                https://github.com/XAMPPRocky/tokei                master
+
+# Using RPMs for systemd development (Filipe Brandenburger)
+
+#############
+# friday/cage
+#############
+
+# Atomic updates and configuration files in /etc (Ignaz Forster)
+atomic-updates-and-etc  https://github.com/thkukuk/atomic-updates_and_etc  https://github.com/thkukuk/atomic-updates_and_etc  master
+libeconf                https://github.com/openSUSE/libeconf               https://github.com/openSUSE/libeconf               master
+
+# Privacy-Respecting Linux Desktop Monitoring (David Strauss)
+
+# PostgreSQL at low level: stay curious! (Dmitrii Dolgov)
+
+# Securing Bare Metal Micro Services: Service Mesh (John Studarus)
+securing-bare-metal     https://github.com/packet-labs/SecuringBareMetal   https://github.com/packet-labs/SecuringBareMetal   master
+
+# GNU poke, an extensible editor for structured binary data (Jose E. Marchesi)
+gnu-poke                https://git.savannah.gnu.org/git/poke.git          https://git.savannah.gnu.org/git/poke.git          master
+
+# Transactional Updates with Btrfs (Ignaz Forster)
+
+# Microcontroller Firmware from Scratch (Nikolai Kondrashov)
+
+# News from the coreboot land (Paul Menzel)
+
+# Buildroot : Using embedded tools to build container images (Jérémy Rosen)
+buildroot               https://github.com/buildroot/buildroot             https://github.com/buildroot/buildroot             master
+
+###############
+# saturday/loft
+###############
+
+# Distributing Freedesktop SDK applications to Flatpak, Snapd and Docker (Valentin David)
+buildstream             https://gitlab.com/BuildStream/buildstream.git     https://gitlab.com/BuildStream/buildstream.git     master
+
+# oomd2 and beyond: a year of improvements (Daniel Xu, Anita Zhang)
+oomd                    https://github.com/facebookincubator/oomd          https://github.com/facebookincubator/oomd          master
+
+# Building Portable Service Images with Buck (Lindsay Salisbury)
+
+# pidfds: Process file descriptors on Linux (Christian Brauner)
+
+# Squeezing Water from Stone - KornShell in 2019 (Siteshwar Vashisht)
+ksh                     https://github.com/att/ast                         https://github.com/att/ast                         master
+
+# OCIv2: Container Images Considered Harmful (Aleksa Sarai)
+
+# systemd @ Facebook in 2019 (Davide Cavalca)
+systemd                 https://github.com/systemd/systemd                 https://github.com/systemd/systemd                 master
+
+# Boot Loader Specification + sd-boot (Lennart Poettering)
+
+# eBPF support in the GNU Toolchain (Jose E. Marchesi)
+
+# Linux distro should be an upstream contributor too (Martin Sehnoutka)
+
+# The state of Thunderbolt on GNU/Linux (Christian Kellner)
+bolt                    https://gitlab.freedesktop.org/bolt/bolt.git       https://gitlab.freedesktop.org/bolt/bolt.git       master
+
+# Closing (Chris Kuehl)
+
+###############
+# saturday/cage
+###############
+#
+# Coinboot - Cost effective, diskless GPU clusters for blockchain hashing and beyond (Gunter Miegel)
+
+# Development and testing with lrun (Marcel Holtmann)
+
+# Trust is good, control is better - A (short) story about Network Policies (Maximilian Bischoff, Johannes Scheuermann)
+
+# iwd - State of the union (Marcel Holtmann)
+
+# BMC management with bmc-toolbox (Joel Rebello, Juliano Martinez)
+bmc-toolbox             https://github.com/bmc-toolbox/bmclib              https://github.com/bmc-toolbox/bmclib              master
+
+# Generating seccomp profiles for containers using podman and eBPF (Dan Walsh)
+
+# Yomi - an openSUSE installer based on SaltStack (Alberto Planas Dominguez)
+salt                    https://github.com/saltstack/salt                  https://github.com/saltstack/salt                  develop
+yomi                    https://github.com/openSUSE/yomi                   https://github.com/openSUSE/yomi                   master
+
+# Purely Functional Package Management (Franz Pletz)
+nix                     https://github.com/NixOS/nix.git                   https://github.com/NixOS/nix.git                   master
+
+# Stateful systems on immutable infrastructure (Hannu Valtonen)
+
+# Senpai - Automatic memory sizing for containers (Johannes Weiner)
+senpai                  https://github.com/facebookincubator/senpai        https://github.com/facebookincubator/senpai        master

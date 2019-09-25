@@ -1,0 +1,45 @@
+Opening                                                          | https://cfp.all-systems-go.io/ASG2019/talk/A3KZGD/
+Effective infrastructure monitoring with Grafana                 | https://cfp.all-systems-go.io/ASG2019/talk/XJAWA7/
+Traceloop for systemd and Kubernetes + Inspektor Gadget          | https://cfp.all-systems-go.io/ASG2019/talk/98A9LW/
+Rootless                                                         | https://cfp.all-systems-go.io/ASG2019/talk/PVYETJ/
+Reinventing Home Directories                                     | https://cfp.all-systems-go.io/ASG2019/talk/VSQRXA/
+How Microsoft SQL Server Went Multi-Platform: SQLPAL             | https://cfp.all-systems-go.io/ASG2019/talk/GTYJFV/
+Resource control @ Facebook - 2019                               | https://cfp.all-systems-go.io/ASG2019/talk/KEK3MD/
+Container Live Migration                                         | https://cfp.all-systems-go.io/ASG2019/talk/E88Z7V/
+Revamping libcontainers systemd driver                           | https://cfp.all-systems-go.io/ASG2019/talk/YPU3HL/
+Custom cgroup-bpf programs in systemd                            | https://cfp.all-systems-go.io/ASG2019/talk/M8DVWG/
+Time-limited login sessions                                      | https://cfp.all-systems-go.io/ASG2019/talk/8RB73U/
+Impact of zstd                                                   | https://cfp.all-systems-go.io/ASG2019/talk/DG3YDE/
+Alternatives to standard utilities                               | https://cfp.all-systems-go.io/ASG2019/talk/JFC7VC/
+Using RPMs for systemd development                               | https://cfp.all-systems-go.io/ASG2019/talk/JM7GDN/
+Atomic updates and configuration files in /etc                   | https://cfp.all-systems-go.io/ASG2019/talk/KYTCJV/
+Privacy-Respecting Linux Desktop Monitoring                      | https://cfp.all-systems-go.io/ASG2019/talk/3ZKVWF/
+PostgreSQL at low level: stay curious!                           | https://cfp.all-systems-go.io/ASG2019/talk/AXPVZ3/
+Securing Bare Metal Micro Services: Service Mesh                 | https://cfp.all-systems-go.io/ASG2019/talk/H3YZZM/
+GNU poke                                                         | https://cfp.all-systems-go.io/ASG2019/talk/BKXVJQ/
+Transactional Updates with Btrfs                                 | https://cfp.all-systems-go.io/ASG2019/talk/SXENPK/
+Microcontroller Firmware from Scratch                            | https://cfp.all-systems-go.io/ASG2019/talk/JDCVYP/
+News from the coreboot land                                      | https://cfp.all-systems-go.io/ASG2019/talk/UUYNXW/
+Buildroot : Using embedded tools to build container images       | https://cfp.all-systems-go.io/ASG2019/talk/B7D7BC/
+Distributing Freedesktop SDK applications to Flatpak             | https://cfp.all-systems-go.io/ASG2019/talk/CF7FSX/
+oomd2 and beyond: a year of improvements                         | https://cfp.all-systems-go.io/ASG2019/talk/DQX3DH/
+Building Portable Service Images with Buck                       | https://cfp.all-systems-go.io/ASG2019/talk/K7E7T7/
+pidfds: Process file descriptors on Linux                        | https://cfp.all-systems-go.io/ASG2019/talk/TPS8TS/
+Squeezing Water from Stone - KornShell in 2019                   | https://cfp.all-systems-go.io/ASG2019/talk/CV9R3N/
+OCIv2: Container Images Considered Harmful                       | https://cfp.all-systems-go.io/ASG2019/talk/VMTEPT/
+systemd @ Facebook in 2019                                       | https://cfp.all-systems-go.io/ASG2019/talk/983XHL/
+Boot Loader Specification + sd-boot                              | https://cfp.all-systems-go.io/ASG2019/talk/HFJMLU/
+eBPF support in the GNU Toolchain                                | https://cfp.all-systems-go.io/ASG2019/talk/MAYDS8/
+Linux distro should be an upstream contributor too               | https://cfp.all-systems-go.io/ASG2019/talk/US8XA9/
+The state of Thunderbolt on GNU/Linux                            | https://cfp.all-systems-go.io/ASG2019/talk/HXLJNF/
+Closing                                                          | https://cfp.all-systems-go.io/ASG2019/talk/WB9TFT/
+Coinboot - Cost effective                                        | https://cfp.all-systems-go.io/ASG2019/talk/XNU7NE/
+Development and testing with lrun                                | https://cfp.all-systems-go.io/ASG2019/talk/N8YRKX/
+Trust is good                                                    | https://cfp.all-systems-go.io/ASG2019/talk/QXMUUW/
+iwd - State of the union                                         | https://cfp.all-systems-go.io/ASG2019/talk/WBJNQQ/
+BMC management with bmc-toolbox                                  | https://cfp.all-systems-go.io/ASG2019/talk/7WMKLH/
+Generating seccomp profiles for containers using podman and eBPF | https://cfp.all-systems-go.io/ASG2019/talk/ACEWHG/
+Yomi - an openSUSE installer based on SaltStack                  | https://cfp.all-systems-go.io/ASG2019/talk/KDEYJZ/
+Purely Functional Package Management                             | https://cfp.all-systems-go.io/ASG2019/talk/AD8VYE/
+Stateful systems on immutable infrastructure                     | https://cfp.all-systems-go.io/ASG2019/talk/RLCDFS/
+Senpai - Automatic memory sizing for containers                  | https://cfp.all-systems-go.io/ASG2019/talk/TCBLRG/
