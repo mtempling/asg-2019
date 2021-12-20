@@ -6,18 +6,18 @@
 #############
 
 # Effective infrastructure monitoring with Grafana (David Kaltschmidt)
-grafana                 https://github.com/grafana/grafana                 https://github.com/grafana/grafana                 master
+grafana                 https://github.com/grafana/grafana                 https://github.com/grafana/grafana                 main
 
 # Traceloop for systemd and Kubernetes + Inspektor Gadget (Alban Crequy)
 gobpf                   https://github.com/iovisor/gobpf                   https://github.com/iovisor/gobpf                   master
-inspector-gadget        https://github.com/kinvolk/inspektor-gadget        https://github.com/kinvolk/inspektor-gadget        master
-traceloop               https://github.com/kinvolk/traceloop               https://github.com/kinvolk/traceloop               master
+inspector-gadget        https://github.com/kinvolk/inspektor-gadget        https://github.com/kinvolk/inspektor-gadget        main
+traceloop               https://github.com/kinvolk/traceloop               https://github.com/kinvolk/traceloop               main
 
 # Rootless, Reproducible & Hermetic: Secure Container Build Showdown (Andrew Martin)
 bazel                   https://github.com/bazelbuild/bazel                https://github.com/bazelbuild/bazel                master
-buildah                 https://github.com/containers/buildah              https://github.com/containers/buildah              master
+buildah                 https://github.com/containers/buildah              https://github.com/containers/buildah              main
 buildkit                https://github.com/moby/buildkit                   https://github.com/moby/buildkit                   master
-in-toto                 https://github.com/in-toto/in-toto                 https://github.com/in-toto/in-toto                 master
+in-toto                 https://github.com/in-toto/in-toto                 https://github.com/in-toto/in-toto                 develop
 jib                     https://github.com/GoogleContainerTools/jib        https://github.com/GoogleContainerTools/jib        master
 lxc                     https://github.com/lxc/lxc                         https://github.com/lxc/lxc                         master
 lxd                     https://github.com/lxc/lxd                         https://github.com/lxc/lxd                         master
@@ -95,7 +95,7 @@ buildroot               https://github.com/buildroot/buildroot             https
 buildstream             https://gitlab.com/BuildStream/buildstream.git     https://gitlab.com/BuildStream/buildstream.git     master
 
 # oomd2 and beyond: a year of improvements (Daniel Xu, Anita Zhang)
-oomd                    https://github.com/facebookincubator/oomd          https://github.com/facebookincubator/oomd          master
+oomd                    https://github.com/facebookincubator/oomd          https://github.com/facebookincubator/oomd          main
 
 # Building Portable Service Images with Buck (Lindsay Salisbury)
 
@@ -107,7 +107,7 @@ ksh                     https://github.com/att/ast                         https
 # OCIv2: Container Images Considered Harmful (Aleksa Sarai)
 
 # systemd @ Facebook in 2019 (Davide Cavalca)
-systemd                 https://github.com/systemd/systemd                 https://github.com/systemd/systemd                 master
+systemd                 https://github.com/systemd/systemd                 https://github.com/systemd/systemd                 main
 
 # Boot Loader Specification + sd-boot (Lennart Poettering)
 
@@ -147,4 +147,4 @@ nix                     https://github.com/NixOS/nix.git                   https
 # Stateful systems on immutable infrastructure (Hannu Valtonen)
 
 # Senpai - Automatic memory sizing for containers (Johannes Weiner)
-senpai                  https://github.com/facebookincubator/senpai        https://github.com/facebookincubator/senpai        master
+senpai                  https://github.com/facebookincubator/senpai        https://github.com/facebookincubator/senpai        main

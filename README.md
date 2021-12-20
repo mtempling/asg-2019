@@ -28,7 +28,7 @@ The above oneliner is short for:
     ove fetch <tab><tab>
 
 # Fetch all repositories
-Here we will issue ~45 git clones (~3GB of disk space) in parallel. You have been warned!
+Here we will issue ~45 git clones (3 in parallel) and this will occupy ~4GB of disk space. You have been warned!
 
     ove fetch
 

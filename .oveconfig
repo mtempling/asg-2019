@@ -1,2 +1,4 @@
 #OVE_REDIRECT_OUTPUT           > /dev/null
 OVE_REDIRECT_OUTPUT            ;
+OVE_FETCH_MAX_PARALLEL         3
+OVE_CLONE_MAX_PARALLEL         3
