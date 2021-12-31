@@ -1,4 +1,4 @@
 local words
-words=$(cut -d'|' -f1 $OVE_PROJECT_DIR/schedule | xargs -n1 |  tr -dc '[:alnum:]\n\r')
+words=$(cut -d'|' -f1 $OVE_OWEL_DIR/schedule | xargs -n1 |  tr -dc '[:alnum:]\n\r')
 words+=" $(echo $words | tr '[:upper:]' '[:lower:]')"
 COMPREPLY=( $(compgen -W "$(echo $words | sort -u)" -- "${cur}") )

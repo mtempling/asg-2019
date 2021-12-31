@@ -23,15 +23,15 @@
 # WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
 # OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-if [ $# -eq 0 ] || [ $(grep -c -i "$*" $OVE_PROJECT_DIR/schedule) -eq 0 ]; then
-	cat $OVE_PROJECT_DIR/schedule | tr -d '|'
+if [ $# -eq 0 ] || [ $(grep -c -i "$*" $OVE_OWEL_DIR/schedule) -eq 0 ]; then
+	cat $OVE_OWEL_DIR/schedule | tr -d '|'
 	exit 0
-elif [ $(grep -c -i "$*" $OVE_PROJECT_DIR/schedule) -gt 1 ]; then
-	grep -i "$*" $OVE_PROJECT_DIR/schedule
+elif [ $(grep -c -i "$*" $OVE_OWEL_DIR/schedule) -gt 1 ]; then
+	grep -i "$*" $OVE_OWEL_DIR/schedule
 	exit 0
 fi
 
-url="$(grep -i "$*" $OVE_PROJECT_DIR/schedule | cut -d'|' -f2)"
+url="$(grep -i "$*" $OVE_OWEL_DIR/schedule | cut -d'|' -f2)"
 if ! command -V xdg-open &> /dev/null; then
 	echo $url
 	exit 0
